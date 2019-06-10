@@ -104,6 +104,7 @@ PRODUCT_COPY_FILES += \
 	vendor/themes/sounds/notifications/Tuneup.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/notifications/Tuneup.ogg \
 	vendor/themes/sounds/notifications/Tweeter.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/notifications/Tweeter.ogg \
 	vendor/themes/sounds/notifications/Twinkle.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/notifications/Twinkle.ogg \
+	vendor/themes/sounds/ringtones/Abc.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/Abc.ogg \
 	vendor/themes/sounds/ringtones/Atria.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/Atria.ogg \
 	vendor/themes/sounds/ringtones/Beats.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/Beats.ogg \
 	vendor/themes/sounds/ringtones/Callisto.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/Callisto.ogg \
