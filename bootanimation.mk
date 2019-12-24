@@ -6,9 +6,9 @@ ifneq ($(filter taimen,$(abc_device)),)
 scr_resolution := 1440x2880
 endif
 
-#ifneq ($(filter crosshatch,$(du_device)),)
-#scr_resolution := 1440x2960
-#endif
+ifneq ($(filter bonito,$(abc_device)),)
+scr_resolution := 1080x2160
+endif
 
 ifneq ($(wildcard vendor/themes/bootanimation/$(scr_resolution).zip),)
 PRODUCT_COPY_FILES += \
