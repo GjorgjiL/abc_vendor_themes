@@ -7,3 +7,5 @@ include vendor/themes/bootanimation.mk
 # Sounds
 include vendor/themes/sounds.mk
 
+# Misc
+include vendor/themes/misc.mk
