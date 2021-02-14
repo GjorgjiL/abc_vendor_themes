@@ -17,15 +17,15 @@
 <resources>
 
     <style name="Theme.DeviceDefault.Resolver" parent="@*android:style/Theme.DeviceDefault.ResolverCommon">
-        <item name="android:colorBackgroundFloating">#ff101012</item>
+        <item name="android:colorBackgroundFloating">#ff000000</item>
     </style>
 
     <style name="Theme.DeviceDefault.Settings.DialogBase" parent="@*android:style/Theme.Material.BaseDialog">
-        <item name="android:colorBackgroundFloating">#ff101012</item>
+        <item name="android:colorBackgroundFloating">#ff000000</item>
     </style>
 
     <style name="Theme.DeviceDefault.Settings.Dialog" parent="Theme.DeviceDefault.Settings.DialogBase">
-        <item name="android:colorBackgroundFloating">#ff101012</item>
+        <item name="android:colorBackgroundFloating">#ff000000</item>
     </style>
 
     <style name="Theme.DeviceDefault.System" parent="@*android:style/Theme.Material">
